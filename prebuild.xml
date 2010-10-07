@@ -1,4 +1,4 @@
-   <Project name="PythonRegionmoduleLoader" path="addon-modules/PythonRegionmoduleLoader/Modules" type="Library">
+   <Project name="PythonModuleLoader" path="addon-modules/PythonModuleLoader/Modules" type="Library">
      <Configuration name="Debug">
        <Options>
          <OutputPath>../../../bin/</OutputPath>
